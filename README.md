@@ -24,13 +24,27 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## :information_source: Como usar?
 Antes de tudo, você terá que ter instalado no seu computador o NPM e NodeJs.
 
-1. Clone o repositório usando o seguinte comando: `https://github.com/nicolyyy/ecoleta.git`
-2. Acesse o diretório mobile usando o comando: `cd/server`
-3. Rode o seguinte comando para iniciar a aplicação do backend: `npm run dev`
-4. Para inicar a aplicação do front-end, use o seguinte comando: `cd/web`
-5. Rode o seguinte comando inicar a aplicação do front-end: `npm start`
-6. Para inicar a aplicação mobile, use o seguinte comando: `cd/mobile`
-7. Rode o seguinte comando inicar a aplicação mobile: `npm start`
+#### Para iniciar a aplicação do back-end:
+```
+Clone o repositório usando o seguinte comando: https://github.com/nicolyyy/ecoleta.git
+Acesse o diretório serve utilizando o comando: cd/server
+Inicie a aplicação: npm run dev
+``` 
 
+#### Para iniciar a aplicação do front-end:
+```
+Clone o repositório usando o seguinte comando: https://github.com/nicolyyy/ecoleta.git
+Acesse o diretório serve utilizando o comando: cd/web
+Inicie a aplicação: npm  start
 
+```
+
+#### Para iniciar a aplicação mobile:
+
+```
+Clone o repositório usando o seguinte comando: https://github.com/nicolyyy/ecoleta.git
+Acesse o diretório serve utilizando o comando: cd/mobile
+Inicie a aplicação: npm  start
+
+```
 
